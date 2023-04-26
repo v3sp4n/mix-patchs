@@ -1,1 +1,282 @@
-["add line killlist","change crosshair color","change glow traffic light","change jump bmx","change menu colors","change radar color","change samp starder text","clear chat","delete client command","delete string chat","disable bike fall in water","disable blur under water","disable burun in water","disable droplets walk on water","disable effects under water","disable glow","disable render N icon","disable skirting nametags","disable splashing on water","disable tire marks","set water color","drive or walk under water","edit chat edit box text color","edit dialog edit box text color","edit dialog text pos","edit DL draw distance(R4)","edit object","edit vehicle lights color","enable dialog","separate weapon ammo","set armour bar color","set blood ground color","set camber","set chat skirting color","set color afk nametag","set crosshair size","set dialog color","set distance angle","set \/dl color","set fist color","set health bar color","set KillList skirting color","set local id","set map radar color","set map Z bg color","set money font","set money skirting color","set name window","set offset nick nametag","set outbound water color","set oxygen","set pos hp bar","set radar center color","set radar markers color","set rain color","set segment map color","set sprint","set tab color","set tire marks","set triangle color","set water color","set weapon color","standing with heavy weapons","toggle crosshair","toggle traicer bullets","turn off explosions","turn off fire","turn off googles","Turns off the blood on the ground","window mode"]
+[
+    {
+        "name": "add line killlist",
+        "filename": "add line killlist.lua"
+    },
+    {
+        "name": "change crosshair color",
+        "filename": "change crosshair color.lua"
+    },
+    {
+        "name": "change glow traffic light",
+        "filename": "change glow traffic light.lua"
+    },
+    {
+        "name": "change jump bmx",
+        "filename": "change jump bmx.lua"
+    },
+    {
+        "name": "change menu colors",
+        "filename": "change menu colors.lua"
+    },
+    {
+        "name": "change radar color",
+        "filename": "change radar color.lua"
+    },
+    {
+        "name": "change samp starder text",
+        "filename": "change samp started text.lua"
+    },
+    {
+        "name": "clear chat",
+        "filename": "clear chat.lua"
+    },
+    {
+        "name": "delete client command",
+        "filename": "delete client command.lua"
+    },
+    {
+        "name": "delete string chat",
+        "filename": "delete string chat.lua"
+    },
+    {
+        "name": "disable bike fall in water",
+        "filename": "disable bike fall in water.lua"
+    },
+    {
+        "name": "disable blur under water",
+        "filename": "disable blur under water.lua"
+    },
+    {
+        "name": "disable burun in water",
+        "filename": "disable burun in water.lua"
+    },
+    {
+        "name": "disable droplets walk on water",
+        "filename": "disable droplets walk on water.lua"
+    },
+    {
+        "name": "disable effects under water",
+        "filename": "disable effects under water.lua"
+    },
+    {
+        "name": "disable glow",
+        "filename": "disable glow.lua"
+    },
+    {
+        "name": "disable render N icon",
+        "filename": "disable render N icon.lua"
+    },
+    {
+        "name": "disable skirting nametags",
+        "filename": "disable skirting nametags.lua"
+    },
+    {
+        "name": "disable splashing on water",
+        "filename": "disable splashing on water.lua"
+    },
+    {
+        "name": "disable tire marks",
+        "filename": "disable tire marks.lua"
+    },
+    {
+        "name": "set water color",
+        "filename": "disable water.lua"
+    },
+    {
+        "name": "drive or walk under water",
+        "filename": "drive or walk under water.lua"
+    },
+    {
+        "name": "edit chat edit box text color",
+        "filename": "edit chat edit box text color.lua"
+    },
+    {
+        "name": "edit dialog edit box text color",
+        "filename": "edit dialog edit box text color.lua"
+    },
+    {
+        "name": "edit dialog text pos",
+        "filename": "edit dialog text pos.lua"
+    },
+    {
+        "name": "edit DL draw distance(R4)",
+        "filename": "edit DL draw distance.lua"
+    },
+    {
+        "name": "edit object",
+        "filename": "edit object.lua"
+    },
+    {
+        "name": "edit vehicle lights color",
+        "filename": "edit vehicle lights color.lua"
+    },
+    {
+        "name": "enable dialog",
+        "filename": "enable dialog.lua"
+    },
+    {
+        "name": "separate weapon ammo",
+        "filename": "separate weapon ammo.lua"
+    },
+    {
+        "name": "set armour bar color",
+        "filename": "set armour bar color.lua"
+    },
+    {
+        "name": "set blood ground color",
+        "filename": "set blood ground color.lua"
+    },
+    {
+        "name": "set camber",
+        "filename": "set camber.lua"
+    },
+    {
+        "name": "set chat skirting color",
+        "filename": "set chat skirting color.lua"
+    },
+    {
+        "name": "set color afk nametag",
+        "filename": "set color afk nametag.lua"
+    },
+    {
+        "name": "set crosshair size",
+        "filename": "set crosshair size.lua"
+    },
+    {
+        "name": "set dialog color",
+        "filename": "set dialog color.lua"
+    },
+    {
+        "name": "set distance angle",
+        "filename": "set distance angle.lua"
+    },
+    {
+        "name": "set /dl color",
+        "filename": "set dl color.lua"
+    },
+    {
+        "name": "set fist color",
+        "filename": "set fist color.lua"
+    },
+    {
+        "name": "set health bar color",
+        "filename": "set health bar color.lua"
+    },
+    {
+        "name": "set KillList skirting color",
+        "filename": "set kill list skirting color.lua"
+    },
+    {
+        "name": "set local id",
+        "filename": "set local id.lua"
+    },
+    {
+        "name": "set map radar color",
+        "filename": "set map radar color.lua"
+    },
+    {
+        "name": "set map Z bg color",
+        "filename": "set map Z bg color.lua"
+    },
+    {
+        "name": "set money font",
+        "filename": "set money font.lua"
+    },
+    {
+        "name": "set money skirting color",
+        "filename": "set money skirting color.lua"
+    },
+    {
+        "name": "set name window",
+        "filename": "set name window.lua"
+    },
+    {
+        "name": "set offset nick nametag",
+        "filename": "set offset nick nametag.lua"
+    },
+    {
+        "name": "set outbound water color",
+        "filename": "set outbound water color.lua"
+    },
+    {
+        "name": "set oxygen",
+        "filename": "set oxygen.lua"
+    },
+    {
+        "name": "set pos hp bar",
+        "filename": "set pos hp bar.lua"
+    },
+    {
+        "name": "set radar center color",
+        "filename": "set radar center color.lua"
+    },
+    {
+        "name": "set radar markers color",
+        "filename": "set radar markers color.lua"
+    },
+    {
+        "name": "set rain color",
+        "filename": "set rain color.lua"
+    },
+    {
+        "name": "set segment map color",
+        "filename": "set segment map color.lua"
+    },
+    {
+        "name": "set sprint",
+        "filename": "set sprint.lua"
+    },
+    {
+        "name": "set tab color",
+        "filename": "set tab color.lua"
+    },
+    {
+        "name": "set tire marks",
+        "filename": "set tire marks.lua"
+    },
+    {
+        "name": "set triangle color",
+        "filename": "set triangle color.lua"
+    },
+    {
+        "name": "set water color",
+        "filename": "set water color.lua"
+    },
+    {
+        "name": "set weapon color",
+        "filename": "set weapon color.lua"
+    },
+    {
+        "name": "standing with heavy weapons",
+        "filename": "standing with heavy weapons.lua"
+    },
+    {
+        "name": "toggle crosshair",
+        "filename": "toggle crosshair.lua"
+    },
+    {
+        "name": "toggle traicer bullets",
+        "filename": "toggle traicer bullets.lua"
+    },
+    {
+        "name": "turn off explosions",
+        "filename": "turn off explosions.lua"
+    },
+    {
+        "name": "turn off fire",
+        "filename": "turn off fire.lua"
+    },
+    {
+        "name": "turn off googles",
+        "filename": "turn off googles.lua"
+    },
+    {
+        "name": "Turns off the blood on the ground",
+        "filename": "Turns off the blood on the ground.lua"
+    },
+    {
+        "name": "window mode",
+        "filename": "window mode.lua"
+    }
+]
