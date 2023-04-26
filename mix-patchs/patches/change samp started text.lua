@@ -11,7 +11,7 @@ return setmetatable({
     name = 'change samp starder text',
 
     desc = {
-        desc = [[DESC]],
+        desc = [[Change samp started text]],
         author = 'SADFI2259X',
         theme_url = 'https://www.blast.hk/threads/13380/post-1031217',
         images = {

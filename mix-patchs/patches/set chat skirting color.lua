@@ -26,7 +26,7 @@ return setmetatable({
     name = 'set chat skirting color',
 
     desc = {
-        desc = [[РњРµРЅСЏРµС‚ С†РІРµС‚ Рё РїСЂРѕР·СЂР°С‡РЅРѕСЃС‚СЊ РѕР±РІРѕРґРєРё С‡Р°С‚Р°.]],
+        desc = [[Меняет цвет и прозрачность обводки чата.]],
         author = 'ARMOR',
         theme_url = 'https://www.blast.hk/threads/13380/post-1149478',
         images = {
